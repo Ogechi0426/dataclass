@@ -10,4 +10,4 @@ This is just a readme file!
 
 # Adding more info
 
-This is me adding more info
+This is me adding more info.
